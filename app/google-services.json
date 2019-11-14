@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1043270506208",
+    "firebase_url": "https://loginfirebase-7311b.firebaseio.com",
+    "project_id": "loginfirebase-7311b",
+    "storage_bucket": "loginfirebase-7311b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043270506208:android:17c72b743c7b0ab2cb6285",
+        "android_client_info": {
+          "package_name": "com.example.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043270506208-0sdr0iarp7h379c172jvcl4pismkqcjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBLIi6hEYo1F9_uyPMTHp-fmNj1Xuh4qA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043270506208-0sdr0iarp7h379c172jvcl4pismkqcjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
